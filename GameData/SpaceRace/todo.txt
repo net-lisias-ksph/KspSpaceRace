@@ -1,0 +1,61 @@
+//TODO:
+
+//rcs cost (and cost in general) => engine: 80% cost of a booster, complex big sat = ~50-70% of the total cost
+
+//separtron?
+
+// only a pilot can pilot a vessel (lv0 :can pilot, lv1: with prograde stability, lv2 :90°, lv3: all unlock, including target)
+// only a scientist can use science instruments (kerbal-only instruments). 
+// KIS: ony an ingenier can mount things together
+
+// RT: remove antenna consumption from e/s to e/kio ( & add a real antenna to sphere or display the e/kio ) & display it in flight irt
+//      remove "can be dammaged by high pressure" or use it
+
+
+//NFS landing egs : better than landingLeg1 ?
+
+
+//CIVIL sat mission (finish "time")
+//Tourist mission
+
+
+// icons
+
+//upgrade stubs stats (tanks, solar, engiens, etc)
+//payload bay: useful for pod ? (elec, rcs, lf) => upgrade in probe, size in size node?
+
+main missions:
+	
+	
+tech2
+
+
+mun manned:
+ST] flyby (unlock orbit node, or give sciecne to do so)
+RE] orbit (science can be obtained via crew report)
+RE] land (first land bonus)
+RE] land with the munar mobile (more science!) => need to go to a checkkpoint
+
+station:
+ST] put a station in orbit
+ - repair it (random failure 'contract', but always one)
+ - crew it to do science with onboard exeriments
+RE] put a modular station in orbit
+ - add power panels
+ - add science modules
+RE(//)] eva missions:
+ - rescue satelite
+ - repair telescope
+ - ?
+RE(//)] long term studies experiment : need a kerbal for a long long time => at least 3 suply ship
+	- has some contract (2?) who ask to suply it with some random useless module to atach to the long term study module (=> need at least 2 kerbal, because neeed always 1 inside)
+
+probe:
+ST] launch a probe to the mun, short-term science
+RE] launch afleet of sat to the mun to have constant coverage -> unlock the long-term orbit studies
+RE] launch to (minmus?,) duna, eve
+RE(//)] launch a probe to the mun surface! (one-time  short-term science)
+
+
+
+
